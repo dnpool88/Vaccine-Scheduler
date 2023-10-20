@@ -1,1 +1,1 @@
-# Vaccine-Scheduler
+# Python Application for Vaccine Scheduler
