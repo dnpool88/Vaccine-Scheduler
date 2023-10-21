@@ -1,1 +1,3 @@
 # Python Application for Vaccine Scheduler
+
+### This Application combines Python and SQL to simulate an interface in the terminal for patients & caregivers. Both have a username and password they need to login, and can also create a login if they do not have one yet. Both can check which caregivers are available for a specific date, along with how many doses of each vaccine is currently available. They can also see what appointments they currently have for a given day. Otherwise, patients can only reserve appointments, while caregivers can upload their availability and add vaccine doses to the system.
